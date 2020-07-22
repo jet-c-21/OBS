@@ -1,0 +1,5 @@
+conda create --name scppt python=3.6
+
+conda activate scppt
+
+pip install --user --upgrade pip
