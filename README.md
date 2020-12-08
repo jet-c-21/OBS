@@ -32,9 +32,11 @@ if __name__ == '__main__':
 q = 'what is compiler'
 
 ''' notebook cell-[5] '''
+# query-mode-1 : query by match
 obs.query_by_match(q, view=5)
 
 ''' notebook cell-[6] '''
+# query-mode-2 : query by word token
 obs.query(q, 20)
 
 ```
