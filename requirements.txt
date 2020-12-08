@@ -1,4 +1,9 @@
+tqdm
 lxml
 Pillow
 XlsxWriter
 python-pptx
+PyPDF2
+jupyter
+tika
+pdfminer
